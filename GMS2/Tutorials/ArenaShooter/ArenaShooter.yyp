@@ -99,7 +99,18 @@
             "Key": "2a24c2cb-2e04-4b8a-bdda-aa7243563673",
             "Value": {
                 "id": "b36e772f-4bc5-4bd7-8016-a9b6bf2c132c",
-                "resourcePath": "sprites\\sprite_enemy\\sprite_enemy.yy",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sprite_enemy\/sprite_enemy.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -183,7 +194,18 @@
             "Key": "56e912cf-c26d-4947-acc5-cc368af9a3fa",
             "Value": {
                 "id": "0ecb33ee-2752-42df-9075-f0a94443fd32",
-                "resourcePath": "objects\\object_enemy\\object_enemy.yy",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/object_enemy\/object_enemy.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -413,6 +435,25 @@
                 ],
                 "resourcePath": "views\/cfb2648f-a190-41a4-a09e-20ab8938f1c0.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e7a37291-f40a-4ff5-aabb-8ebcb49593ee",
+            "Value": {
+                "id": "e7de2b53-245c-433a-bf59-a419884529d7",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sprite_background_floor\/sprite_background_floor.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
