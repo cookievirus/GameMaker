@@ -7,4 +7,8 @@ if(instance_exists(object_player))
 
 image_angle = direction;
 
-if (ENEMY_HP <= 0) { instance_destroy(); }
+if (ENEMY_HP <= 0) 
+{
+	with(object_text_score) GAME_SCORE = GAME_SCORE + 5; 	
+	instance_destroy(); 
+}
